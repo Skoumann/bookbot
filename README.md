@@ -1,2 +1,1 @@
-# bookbot
-bookbot Boot.Dev Assignment
+BookBot is my first project!
